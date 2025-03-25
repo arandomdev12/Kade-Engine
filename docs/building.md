@@ -15,7 +15,7 @@
  4. Install and set up the necessary libraries:
 	 - `haxelib install lime 7.9.0`
 	 - `haxelib install openfl`
-	 - `haxelib install flixel`
+	 - `haxelib install flixel 5.2.2`
 	 - `haxelib install flixel-tools`
 	 - `haxelib install flixel-ui`
 	 - `haxelib install hscript`
