@@ -18,7 +18,7 @@
 	 - `haxelib install flixel 5.2.2`
 	 - `haxelib install flixel-tools`
 	 - `haxelib install flixel-ui 2.5.0`
-	 - `haxelib install hscript`
+	 - `haxelib install hscript 2.4.0`
 	 - `haxelib install flixel-addons 3.0.2`
 	 - `haxelib install actuate`
 	 - `haxelib run lime setup`
