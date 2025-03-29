@@ -15,19 +15,19 @@
  4. Install and set up the necessary libraries:
 	 - `haxelib install lime 7.9.0`
 	 - `haxelib install openfl`
-	 - `haxelib install flixel 5.2.2`
+	 - `haxelib install flixel 5.2.0`
 	 - `haxelib install flixel-tools`
 	 - `haxelib install flixel-ui 2.5.0`
-	 - `haxelib install hscript 2.4.0`
-	 - `haxelib install flixel-addons 3.0.2`
+	 - `haxelib install hscript 2.3.0`
+	 - `haxelib install flixel-addons 3.1.0`
 	 - `haxelib install actuate`
+	 - `haxelib install polymod 1.6.0` 
 	 - `haxelib run lime setup`
 	 - `haxelib run lime setup flixel`
 	 - `haxelib run flixel-tools setup`
 	 - `haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit.git`
 	 - `haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit`
 	 - `haxelib git faxe https://github.com/uhrobots/faxe`
-	 - `haxelib git polymod https://github.com/MasterEric/polymod.git`
 	 - `haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc`
 	 - `haxelib git extension-webm https://github.com/KadeDev/extension-webm`
 	 - `lime rebuild extension-webm <ie. windows, macos, linux>`
